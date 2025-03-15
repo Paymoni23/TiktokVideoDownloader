@@ -16,7 +16,7 @@
    python code.py
    ```
 
-3. The script will prompt you to enter the path to the `.txt` file containing the TikTok links. Also remove `""`
+3. The script will prompt you to enter the path to the `.txt` file containing the TikTok links. Also remove `"` , `'`
 
 4. Once the file is provided, the script will attempt to download the videos to the specified directory. By default, the videos will be saved to a folder named `downloads/` in the same location as the script. The filename will be the title of the video with the appropriate file extension.
 
